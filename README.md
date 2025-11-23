@@ -55,21 +55,6 @@ I'm currently learning dashboard design, storytelling using Power BI and buildin
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShouryaAgg&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaAgg&theme=radical" width="48%">
-</p>
-
-### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaAgg&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Achievements  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ShouryaAgg&theme=radical&no-frame=true&margin-w=10)
-
----
 
 ## Connect with Me
 
